@@ -1,0 +1,4 @@
+Amount received 9.98 from bill number 21501
+Amount received 17.94 from bill number 39001
+Amount received 20 from bill number 19374
+Amount received 20 from bill number 18101
